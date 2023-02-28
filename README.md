@@ -12,3 +12,4 @@ Playground to test git capabilities
   - Commit messages
   - MR Template
   - GitFlow
+  - Merge & Stash & Squash
